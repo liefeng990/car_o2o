@@ -4,7 +4,7 @@
 ## 技术选型:
  - 核心框架：Spring Boot 
  - 权限框架：Apache Shiro 
- - 模板引擎：Freemarker 
+ - 模板引擎：thymeleaf
  - 持久层框架：MyBatis 
  - 数据库连接池：Alibaba Druid 
  - 日志管理：Logf4j 
